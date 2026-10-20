@@ -25,3 +25,8 @@
 - 在美西時間 00:01 PT 上架，週二或週三。
 - 需要準備：tagline、描述（256 字元以內）、Maker 第一則留言、上架當天回答問題。
 - 上架和留言一樣要 Chun 先核准。
+
+## Chun 新規則（2026-10-20）
+- **每週學習最高流量貼文**：每週一一次（台北時間）。在美國（X、Instagram、TikTok、Threads）、墨西哥（Instagram、TikTok、Facebook、X）、巴西（Instagram、TikTok、X）找近期高互動貼文，分析開頭鉤子、語氣、結構、結尾互動方式，更新到該國的 phrase-bank（`marketing/social/phrase-bank/<國家>.md`）。只做學習和更新用語庫，不做大量回覆。
+- **各國腳本自己寫**：小編為每個國家自己寫腳本，不統一成同一套；每國都要符合當地語氣和習慣。
+- **IG Reels**：用 CapCut 免費版剪輯並加字幕，不用付費 AI 生成工具。

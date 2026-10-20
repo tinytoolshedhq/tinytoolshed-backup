@@ -27,3 +27,13 @@ Rebuilt 2026-10-20 (Taipei) from fresh read-only research of public X (x namespa
 | [X @Bagdex](https://x.com/Bagdex/status/2105285701311070372) "i would rather pay once for a utility app and forget about it" | buyer voice for pay-once |
 | [bsky @tg2](https://bsky.app/profile/tg2.bsky.social/post/3mxwvs62gg227) "Everything is a subscription now." | verbatim hook phrase |
 | [X @Chanellly_](https://x.com/Chanellly_/status/2106575244093960428) "it's been a minute since I played" | casual "a minute" usage |
+
+## 上架前後發文規則（Chun，2026-10-20）
+- 上架 App Store 前：所有社群發文和回覆一律暫停。
+- 上架後每則發文和回覆都必須：說明目前還沒有 Android 版；附 1 支影片 + 1 張照片（由 Chun 提供）；附 App Store 連結。
+
+## Required in every post/reply after launch (Chun 2026-10-20)
+- Nothing posts until Been Ages is live on the App Store.
+- No-Android line (pick one, keep it casual): "iPhone only for now, no Android yet." / "Android folks: not yet, sorry!" / "It's iPhone-only for now."
+- One video + one photo from Chun (none = don't post), plus the App Store link.
+- Free tier: 10 items, 10 records each; $2.99 one time. Never: unlock, widgets, iCloud backup, Family Sharing.

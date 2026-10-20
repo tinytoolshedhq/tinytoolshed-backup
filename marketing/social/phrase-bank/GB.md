@@ -16,6 +16,31 @@
 
 ---
 
+
+## ⛔ 發文／回覆鐵則（Chun 2026-10-20，優先於本檔其他內容）
+
+1. **App 在 App Store 上架前，所有貼文和回覆一律停止。**（英國本來就只做 ASO，上架後若 Chun 開放才適用以下規則。）
+2. 上架後，**每一則貼文和回覆**都必須：
+   - 說明**目前還沒有 Android 版**；
+   - 附 **Chun 提供的 1 支影片＋1 張照片**（Chun 沒給素材＝不發）；
+   - 附 **App Store 連結**。
+3. 上架後回覆不必逐則等核准，但**禁止大量回覆、自動回覆**。
+4. 定價口徑：£2.99／€2.99 一次買斷（US $2.99 同級），免費 10 個項目、每項 10 筆紀錄，沒有上市優惠，不提家人共享，不寫 unlock／freischalten／débloquer。
+
+### 「還沒有 Android」說法範例
+- en-GB：
+  - "iPhone only for now, sorry. No Android version yet."
+  - "It's iPhone-only at the moment; there's no Android version yet."
+  - "Not on Android yet, I'm afraid. iPhone only for now."
+- de【機器草稿】：
+  - "Aktuell nur fürs iPhone. Eine Android-Version gibt es noch nicht."
+  - "Für Android gibt's die App leider noch nicht – vorerst nur iPhone."
+- fr【機器草稿】：
+  - « Pour l'instant, uniquement sur iPhone. Pas encore de version Android. »
+  - « Désolé, l'app n'existe pas encore sur Android – iPhone seulement pour le moment. »
+
+---
+
 ## 0. 一句話總結
 
 英國人講「好久沒做某件事」的口氣是：**輕描淡寫＋自嘲＋一點點反諷**，不是美式的「OMG I'm so bad at this!!!」。例如去做年度熱水爐保養，會寫「Sensibly getting my boiler service today. How exciting!! 😂」（https://x.com/i/status/2100881184381116704 ）──把很無聊的事故意講得很興奮，這就是笑點。
@@ -199,3 +224,7 @@ App Store 英國區評論（同類 app）：
 
 # Phrase bank GB
 TODO: 內容無法復原。 原檔由歐洲小編撰寫，請其補回。
+
+## 上架前後發文規則（Chun，2026-10-20）
+- 上架 App Store 前：所有社群發文和回覆一律暫停。
+- 上架後每則發文和回覆都必須：說明目前還沒有 Android 版；附 1 支影片 + 1 張照片（由 Chun 提供）；附 App Store 連結。

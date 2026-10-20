@@ -36,7 +36,7 @@
 - 舉例：Streaks €6.99、AutoSleep €9.99、PeakFinder €5.99。
 
 ## 套用到 Been Ages（【推論】）
-- 定價：€2.99 一次買斷，無上市優惠，免費 3 項，不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（Chun 決定，取代舊推論）。 [PENDING CHUN: 3 vs 10 items]
+- 定價：€2.99 一次買斷，無上市優惠，免費 10 項（每項 10 筆紀錄），不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（Chun 決定，取代舊推論）。
 - 德文商店頁強調「Einmalkauf, kein Abo, Daten bleiben auf dem iPhone」（一次買斷、不訂閱、資料留在 iPhone 上）。
 - 範例項目用德國的生活情境，例如 TÜV（汽車定期檢驗）、Zahnbürste（牙刷）。
 - 平台以 IG 和 TikTok 為主。

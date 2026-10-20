@@ -30,3 +30,18 @@ Note: the 11 drafts from the Sat round are now stale (several days old); not to 
 | 20 | Bluesky | https://bsky.app/profile/lancederg.bsky.social/post/3mybpvak2u22e | US/EN | drafted (help only) |
 | 21 | X | https://x.com/par3jacdmx/status/2112289704557027345 | MX | drafted (機器草稿, help only) |
 | 22 | X | https://x.com/_brunofr/status/2112327188267860449 | BR | drafted (機器草稿) |
+
+### Round 2026-10-20 18:10 (Taipei) — drafted, waiting for Chun's approval
+| # | Platform | URL | Market | Status |
+|---|---|---|---|---|
+| 23 | X | https://x.com/TraceyLee_07/status/2112431120239222842 | EN (AU) | drafted |
+| 24 | X | https://x.com/GunPotato064/status/2112424174396260392 | US | drafted (help only) |
+| 25 | Bluesky | https://bsky.app/profile/beefinboots.bsky.social/post/3mybrj5frg22w | US/EN | drafted |
+| 26 | Bluesky | https://bsky.app/profile/kilianvalkhof.com/post/3myca6inub22p | EN | drafted (help only) |
+| 27 | Bluesky | https://bsky.app/profile/papierboot.bsky.social/post/3mybzalwevc2k | EN | drafted (help only) |
+| 28 | X | https://x.com/atulthedev/status/2112407561358196984 | EN | drafted |
+| 29 | X | https://x.com/batmunson666/status/2112386410032632140 | US/EN | drafted |
+| 30 | X | https://x.com/docknockout/status/2112475477059481632 | US | drafted (help only) |
+| 31 | Bluesky | https://bsky.app/profile/puppy.bzky.team/post/3mybsm6k7cs2l | US/EN | drafted (help only) |
+| 32 | Bluesky | https://bsky.app/profile/hbjaycut.blacksky.app/post/3myby3ogfgc2m | US/EN | drafted (help only) |
+| 33 | X | https://x.com/laramarcollino/status/2112393696591438175 | BR | drafted (機器草稿, help only) |

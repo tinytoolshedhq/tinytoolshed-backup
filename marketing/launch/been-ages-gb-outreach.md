@@ -1,4 +1,4 @@
-> [RESTORED 2026-10-20] 歐洲小編復原：原版（2026-10-14／17）逐字復原；ASO 修訂版依 2026-10-17 寫入內容復原，並套用 2026-10-20 的更新（keywords 改 oven、contacts；app 1.1.1 免費版依 Chun 2026-10-20 定案為 3 個項目、widget 已移除）。行銷大師 2026-10-20 重建版附在最下方。 [PENDING CHUN: 3 vs 10 items]
+> [RESTORED 2026-10-20] 歐洲小編復原：原版（2026-10-14／17）逐字復原；ASO 修訂版依 2026-10-17 寫入內容復原，並套用 2026-10-20 的更新（keywords 改 oven、contacts；app 1.1.1 免費版依 Chun 2026-10-20 定案為 3 個項目、widget 已移除）。行銷大師 2026-10-20 重建版附在最下方。
 
 # Been Ages — 英國：搭美國順風車的 ASO 版（草稿，需 Chun 核准）
 
@@ -47,7 +47,7 @@
 > No account and no sign-up. Your data stays on your iPhone, and we can't see what you log.
 >
 > PAY ONCE
-> Free to download, with up to 3 items. A one-off purchase gives you unlimited items and extra share card styles. No subscription. Already bought it? You can restore your purchase at any time. [PENDING CHUN: 3 vs 10 items]
+> Free to download, with up to 10 items and 10 records per item. A one-off purchase gives you unlimited items and extra share card styles. No subscription. Already bought it? You can restore your purchase at any time.
 >
 > Made by one developer at Tiny Toolshed. Feedback is always welcome.
 
@@ -93,7 +93,7 @@
 
 ### 待 Chun 決定（ASO）
 1. 各欄位是否同意。
-2. 英國定價：£2.99 一次性購買，無上市優惠，免費 3 個項目，不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（說明文不寫價格）。 [PENDING CHUN: 3 vs 10 items]
+2. 英國定價：£2.99 一次性購買，無上市優惠，免費 10 個項目（每項 10 筆紀錄），不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（說明文不寫價格）。
 3. 英文截圖重拍。
 4. 要不要加 en-GB app 內文字（Every 2 weeks → Fortnightly）。
 
@@ -104,7 +104,7 @@
 | Subtitle | Days since you last did it | 26 |
 | Keywords（100 bytes） | reminder,habit,chores,routine,log,days,since,replace,toothbrush,filter,mot,boiler,service,cleaning | 98 |
 - 英式拼字（organise、colour）；截圖範例換成 MOT、boiler service、換牙刷【推論，MOT／boiler 例子未查證搜尋量】。
-- 價格：£2.99 一次性購買，無上市優惠，免費 3 個項目，不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（一次性購買）。 [PENDING CHUN: 3 vs 10 items]
+- 價格：£2.99 一次性購買，無上市優惠，免費 10 個項目（每項 10 筆紀錄），不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（一次性購買）。
 
 ## D0–D14
 | 天 | 行動 |
@@ -140,7 +140,7 @@ GB（United Kingdom）不發文，只做 ASO（Chun 決定）。
 - 可考慮 "lenses" 換成 "contacts"
 
 ## 價格
-£2.99 一次性購買，無上市優惠，免費 3 個項目，不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認） [PENDING CHUN: 3 vs 10 items]
+£2.99 一次性購買，無上市優惠，免費 10 個項目（每項 10 筆紀錄），不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）
 
 TODO [RECONSTRUCTED-PARTIAL]: 原檔其他段落請歐洲小編補回。scripts/check-aso-gb.py 不存在。
 
@@ -148,4 +148,7 @@ TODO [RECONSTRUCTED-PARTIAL]: 原檔其他段落請歐洲小編補回。scripts/
 - 有：提醒（每 N 天／週／月／年、固定星期幾、每月固定日、自訂時間、稍後提醒、匯出到行事曆）；資料只在裝置上（無帳號、無伺服器、無追蹤）；付費頁可恢復購買；中／英／日，跟隨系統語言；自訂分類；每個項目的歷史紀錄；手動匯出／匯入備份檔。
 - 沒有（不得宣稱）：widget、鎖定畫面記錄、iCloud 同步、照片備註、時間軸。
 - AI 輸入（打字或語音新增、問「多久沒…」、記「剛做完」、復原；完全裝置端、離線）：只能標「Coming soon／即將推出」。
-- 免費額度：[PENDING CHUN: 3 vs 10 items]（程式碼：10 個項目、每項 10 筆紀錄；行銷決定：3 個項目）。
+- 免費額度：10 個項目、每項 10 筆紀錄（Chun 2026-10-20 定案，與程式碼一致）。
+
+## Keyword update（2026-10-20 提案，未改上方現行欄位）
+依免費代理指標（App Store 搜尋建議＋iTunes Search API，非 Apple popularity 分數），提案見 `learning/keyword-demand-2026-10-20.md` 的「建議」表中 GB 一列。待 Chun 確認後才替換。

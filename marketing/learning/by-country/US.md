@@ -6,7 +6,7 @@
 
 ## 已知學習 [RECONSTRUCTED-PARTIAL]
 - 免費 + 一次性購買勝過付費下載（下載量 4–6 倍，轉換率 3–12%）。
-- Been Ages 免費 3 個項目。 [PENDING CHUN: 3 vs 10 items]
+- Been Ages 免費 10 個項目（每項 10 筆紀錄）。
 - ASO：name 30、subtitle 30、keywords 100 bytes，三欄不重複。
 - 回覆比發文有效；連結放第一則回覆。
 - 前 3 張截圖要呈現好處。
@@ -24,7 +24,7 @@ TODO: 該國專屬研究原文無法復原。
 
 ## 美洲小編 補充
 > 2026-10-20（台北時間）重新研究公開 X / Bluesky 貼文，只讀不互動。完整內容與連結見 social/phrase-bank/US.md；草稿見 social/drafts/US-first-batch.md。
-- **價格以 Chun 的決定為準：** $2.99 一次買斷，沒有上市優惠，免費 3 項，不開家人共享。（舊重建版的上市優惠方案已作廢。）文案不用該禁用字，改說 "pay once"／"one time"。 [PENDING CHUN: 3 vs 10 items]
+- **價格以 Chun 的決定為準：** $2.99 一次買斷，沒有上市優惠，免費 10 項（每項 10 筆紀錄），不開家人共享。（舊重建版的上市優惠方案已作廢。）文案不用該禁用字，改說 "pay once"／"one time"。
 - 美國人常說 "it's been a minute"（＝好一陣子），app 名 Been Ages 不用改，內文可以混用。
 - 回覆最多的是很具體的「上次換 ___ 是什麼時候」問題，例如問家裡空氣濾網的貼文有 84 則回覆、7,030 讚：https://x.com/wobblymami/status/2103193180695151063 ；問牙刷的有 20–70 則回覆。
 - "Be honest. No judgment." 這次沒查證到大量回覆，大多是品牌、成人內容或交易推銷帳號在用；可以用，但不要只靠這句當 hook。

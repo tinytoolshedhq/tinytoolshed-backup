@@ -4,7 +4,7 @@
 # Indie Playbook [RECONSTRUCTED-PARTIAL]
 ## 已知學習 [RECONSTRUCTED-PARTIAL]
 - 免費 + 一次性購買勝過付費下載（下載量 4–6 倍，轉換率 3–12%）。
-- Been Ages 免費 3 個項目。 [PENDING CHUN: 3 vs 10 items]
+- Been Ages 免費 10 個項目（每項 10 筆紀錄）。
 - ASO：name 30、subtitle 30、keywords 100 bytes，三欄不重複。
 - 回覆比發文有效；連結放第一則回覆。
 - 前 3 張截圖要呈現好處。

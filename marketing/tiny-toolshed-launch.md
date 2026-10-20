@@ -20,7 +20,7 @@
 - Tagline: Tap once. See how long it's been. Pay once.
 
 ## 市場
-見 social/regions.md。
+- 主推 US、JP；GB 只做 ASO；TW 輕量測試；第二波 DE、FR、KR、BR、MX。詳見 social/regions.md。
 
 TODO: 原檔其餘內容（時程、KPI 等）無法復原。
 
@@ -29,3 +29,8 @@ TODO: 原檔其餘內容（時程、KPI 等）無法復原。
 - 沒有（不得宣稱）：widget、鎖定畫面記錄、iCloud 同步、照片備註、時間軸。
 - AI 輸入（打字或語音新增、問「多久沒…」、記「剛做完」、復原；完全裝置端、離線）：只能標「Coming soon／即將推出」。
 - 免費額度：[PENDING CHUN: 3 vs 10 items]（程式碼：10 個項目、每項 10 筆紀錄；行銷決定：3 個項目）。
+
+## 社群新規則（Chun，2026-10-20）
+1. **每週一學習高互動貼文**：每位區域小編每週一研究所負責國家主要平台上近期的高互動貼文，分析開頭鉤子、語氣、結構、結尾 CTA，只更新該國的 phrase-bank（`marketing/social/phrase-bank/<國家>.md`），不做大量回覆。行銷大師協助彙整跨國發現。
+2. **各國腳本各自寫**：每個國家的腳本由負責小編用當地語氣自己寫，不共用同一套腳本。
+3. **IG Reels**：用免費版 CapCut 剪輯並加字幕，不使用付費 AI 生成工具。

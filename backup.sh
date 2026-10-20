@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Tiny Toolshed backup: sync allowed non-secret paths into ./repo, then secret-scan.
-# Push: an agent pushes ./repo to ChunWang1998/tinytoolshed-backup with the GitHub connector (push_files),
+# Push: an agent pushes ./repo to tinytoolshedhq/tinytoolshed-backup with the GitHub connector (push_files),
 # or `git push` if this box has gh auth. Exit code != 0 means scan failed -> DO NOT push.
 set -euo pipefail
 HERE="$(cd "$(dirname "$0")" && pwd)"; OUT="$HERE/repo"

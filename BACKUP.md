@@ -7,7 +7,7 @@ Never committed: credentials, .p8, .env, tokens, cookies, browser profiles, /hom
 
 ## Rerun
 1. On the box: `bash /workspace/backup/backup.sh` (restore it from this repo first if the box was wiped). It stages into `/workspace/backup/repo` and runs gitleaks + regex scan; non-zero exit = do not push.
-2. Ask any bot with the GitHub connector to push `/workspace/backup/repo` to `ChunWang1998/tinytoolshed-backup` main (push_files).
+2. Ask any bot with the GitHub connector to push `/workspace/backup/repo` to `tinytoolshedhq/tinytoolshed-backup` main (push_files).
 Run after any important file is finished, and at least daily.
 Restore: copy `marketing/` back to `/workspace/marketing/` etc.
 

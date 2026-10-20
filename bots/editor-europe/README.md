@@ -3,6 +3,11 @@
 
 負責英國、德國、法國（義大利可選），app：Been Ages。
 
+## 品牌帳號與權限（2026-10-20）
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
+- 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
+
 ## 已完成（全部是草稿，等 Chun 核准）
 - 英國用語庫：`/workspace/marketing/social/phrase-bank/GB.md`
 - 英國（en-GB）App Store 商店頁 ASO：`launch/been-ages-gb-outreach.md`，行銷大師已檢查過字數和關鍵字

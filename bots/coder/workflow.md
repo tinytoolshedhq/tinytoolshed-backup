@@ -25,5 +25,5 @@
 - 對其他 bot：SendToAgent，需要對方行動時 priority=true。
 
 ## 備份 repo 維護
-- 改 `/workspace/backup/bots/<slug>/` → `bash /workspace/backup/backup.sh` 必須印出 SCAN CLEAN → GitHub connector push_files（每次最多 4 個檔案）推到 main。
+- 改 `/workspace/backup/bots/<slug>/` → `bash /workspace/backup/backup.sh` 必須印出 SCAN CLEAN → 在備份 repo 上開 cloud agent 發 PR，審過再合併。
 - box 被重設時，先從本 repo 還原 backup.sh 等檔案。

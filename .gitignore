@@ -1,0 +1,17 @@
+.env*
+*.p8
+*.pem
+*.key
+*.p12
+*.mobileprovision
+*cookie*
+*token*
+*secret*
+.secrets/
+*.mp4
+*.mov
+*.zip
+*.ipa
+node_modules/
+*transcript*
+*.log

@@ -19,3 +19,16 @@
 - https://x.com/aisu_lobi/status/2112171751522340936
 - https://x.com/mapXwF3dpK46d4x/status/2112116698941980885
 - https://x.com/TigerJun801/status/2112185072896163918
+
+## 2026-10-20 20:38 輪（X only；台灣 1 則、韓國 0 則）
+- https://x.com/niko_nikkoli/status/2112162369342411154
+- https://x.com/201112Miro/status/2112374263076524338
+- https://x.com/CLIMBviaSID/status/2112445852598104401
+- https://x.com/ragatarou_/status/2112315699620384853
+- https://x.com/sasakyydev/status/2112379989064863915
+- https://x.com/tenpercent_app/status/2112372971767791804
+- https://x.com/puupuipuni/status/2112391746894307354
+- https://x.com/ryokokataduke/status/2112386071057363043
+- https://x.com/jpn_ITossan/status/2112484140826464729
+- https://x.com/el_le1288/status/2112507001565831332
+- https://x.com/horacechuangg/status/2112436720830689385

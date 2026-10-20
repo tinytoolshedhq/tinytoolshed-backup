@@ -28,7 +28,7 @@
 ### 免費上限（目前 main）
 - `FREE_ACTIVITY_LIMIT = 10` 個項目；`FREE_HISTORY_LIMIT = 10` 筆／每項。
 - 超過任一項就開付費牆；第 11 筆記錄以 reason `'history'` 開啟。
-- **待定**：Chun 傾向改成「免費 3 個項目」，每項筆數上限未定，等他確認後再改。
+- 2026-10-20 定案：維持 10＋10；「免費 3 個項目」已取消。
 
 ### 內購（IAP）
 - `expo-iap`，非消耗型一次性買斷 `com.beenages.app.fullpack`（Pro）。
@@ -59,6 +59,7 @@
 | #32 | 4c6e6bb | buildNumber 9 |
 | #33 | 431a92f | de / fr 在地化 |
 | #34 | f737573 | 補 NSPhotoLibraryUsageDescription（修 ITMS-90683），buildNumber 10 |
+| #35 | a88a9da | previewer AI 輸入 QA 修正：AiEditSheet 值改存 ref；付費牆後一定顯示回覆；重試用原項目 id（10 分鐘過期）；`logActivityOnDay` 補登也做同日去重；0 天顯示「今天」；查詢只講天數；解析器修正＋38+ 句測試（共 394 個測試）。待辦 L3：重試一律走 `logActivityOnDay` |
 
 ### 踩過的坑
 - ITMS-90683：第三方套件（如 expo-file-system）只要 binary 有權限 API 參照，就必須有對應 UsageDescription，即使 JS 沒用。

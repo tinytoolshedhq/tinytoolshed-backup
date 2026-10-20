@@ -6,7 +6,8 @@
 - 文案與筆記永不使用「unlock」（含 解鎖／desbloquear 等），改說 "pay once"／"one-time purchase"。
 - Product Hunt 標語：Tap once. See how long it's been. Pay once.
 - Pro 內容：無限項目、每項無限紀錄、3 種額外分享卡顏色（mint、sky、blush；cream 免費）。
-- 免費額度：待定（3 vs 10 項）。
+- ~~免費額度：待定（3 vs 10 項）。~~（已被 2026-10-20 決策取代）
+- 2026-10-20（Chun）：免費額度維持 10 個項目、每項 10 筆紀錄；「免費 3 個項目」取消。
 
 ## 市場優先順序
 - 主推：US、JP

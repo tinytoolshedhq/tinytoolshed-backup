@@ -23,3 +23,13 @@
 | [X @libroderimas](https://x.com/libroderimas/status/2102753946808832387) "Cada cuánto cambian el cepillo de dientes?" | exact Been Ages question |
 | [X @chironex78](https://x.com/chironex78/status/2108845401977589941) "Pago único, sin suscripción." | standard pricing phrase |
 | [X @Daniel41043348](https://x.com/Daniel41043348/status/2109497765113802796) "Un solo pago de por vida…" | AVOID: scam context |
+
+## 上架前後發文規則（Chun，2026-10-20）
+- 上架 App Store 前：所有社群發文和回覆一律暫停。
+- 上架後每則發文和回覆都必須：說明目前還沒有 Android 版；附 1 支影片 + 1 張照片（由 Chun 提供）；附 App Store 連結。
+
+## Required in every post/reply after launch (Chun 2026-10-20)「機器草稿」
+- Nada se publica hasta que Been Ages esté en la App Store.
+- Línea sin Android: "Por ahora solo para iPhone, todavía no hay versión para Android." / "¿Android? Todavía no, perdón."
+- Un video + una foto de Chun (si no hay, no se publica) + enlace a la App Store.
+- Gratis: 10 elementos, 10 registros cada uno; $2.99 USD pago único (usar precio local de la App Store). Nunca: desbloquear, widgets, iCloud, En Familia.

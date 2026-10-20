@@ -1,5 +1,17 @@
 # 工作流程
 
+## 2026-10-20 新規則（優先於下列舊流程）
+- 上架 App Store 前：所有貼文和回覆一律停止（回覆搜尋 routine 暫停）。
+- 上架後每則貼文和回覆必備：1) 說明目前沒有 Android 版（用語見 phrase-bank）；2) 一支影片＋一張照片（Chun 提供，沒有就不發）；3) App Store 連結。
+- 產品口徑：免費 10 項×每項 10 筆、$2.99 一次買斷、不開家人共享、不提 widget／iCloud 備份、不用「unlock」。
+- 回覆：黑嘛嘛轉達 Chun 授權上架後回覆可依判斷直接發（品牌新貼文仍需核准）；每則記網址和時間。
+- 備份 repo：tinytoolshedhq/tinytoolshed-backup（原 ChunWang1998/tinytoolshed-backup 已停用）。
+
+## 每週紀錄流程（每週一）
+1. 收到黑嘛嘛的週一報告（曝光、按讚、回覆數據）。
+2. 在 `decisions.md` 的「每週紀錄」新增當週一節：發文／回覆清單（網址＋台北時間）、觸及與互動數據、學到的事、下週優化。
+3. 同步複製到 store `backup/`，交給可憐的碼農開 PR 到 tinytoolshedhq/tinytoolshed-backup（我不自己 push）。
+
 ## 核准（鐵則）
 - 每則貼文、回覆、留言、個人檔案修改、追蹤，都要 Chun 先核准。
 - 不自動留言、不開多個帳號或假帳號、不互刷。
@@ -18,7 +30,7 @@
 
 ## X／Bluesky 貼文
 - 品牌帳號：X @Tinytoolshedhq、Bluesky @tinytoolshedhq.bsky.social。
-- 英文主稿附在地化備註。貼文正文不放連結，連結放第一則回覆。
+- 英文主稿附在地化備註。上架後依新規則，每則都要附 App Store 連結。
 - 發文時間照美東（ET）和美西（PT）排；11/1 美國夏令時間結束後，台北時間會晚一小時。
 
 ## Product Hunt（@tinytoolshedhq）

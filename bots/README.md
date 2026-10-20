@@ -13,3 +13,17 @@
 | 胖嘟嘟阿姨 | User tester |
 
 X account: @Tinytoolshedhq (NOT @tinytoolshed). App: Been Ages, bundle com.beenages.app, IAP com.beenages.app.fullpack.
+
+## 資料夾（bots/<slug>/，各 bot 自己維護）
+| slug | Bot |
+|---|---|
+| coordinator | 黑嘛嘛 |
+| coder | 可憐的碼農 |
+| marketing-master | 行銷大師 |
+| apple-master | 蘋果大師 |
+| previewer | previewer |
+| security-reviewer | 漏洞大師 |
+| user-tester | 胖嘟嘟阿姨 |
+| editor-asia | 亞洲小編 |
+| editor-americas | 美洲小編 |
+| editor-europe | 歐洲小編 |

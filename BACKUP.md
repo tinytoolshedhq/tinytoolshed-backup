@@ -15,4 +15,4 @@ Restore: copy `marketing/` back to `/workspace/marketing/` etc.
 - The GitHub connector's push_files accepts **at most 4 files per call** — push in batches.
 - `bots/<slug>/` folders are written by each bot; backup.sh never deletes `repo/bots/*`.
 - 可憐的碼農 maintains everyone's content in this repo on major updates.
-- Daily backup at 21:00 Asia/Taipei.
+- Daily backup at 21:00 Asia/Taipei is scheduled server-side as a routine that runs backup.sh and pushes automatically. Run manually after important updates.

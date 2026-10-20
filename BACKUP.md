@@ -10,3 +10,9 @@ Never committed: credentials, .p8, .env, tokens, cookies, browser profiles, /hom
 2. Ask any bot with the GitHub connector to push `/workspace/backup/repo` to `ChunWang1998/tinytoolshed-backup` main (push_files).
 Run after any important file is finished, and at least daily.
 Restore: copy `marketing/` back to `/workspace/marketing/` etc.
+
+## Notes
+- The GitHub connector's push_files accepts **at most 4 files per call** — push in batches.
+- `bots/<slug>/` folders are written by each bot; backup.sh never deletes `repo/bots/*`.
+- 可憐的碼農 maintains everyone's content in this repo on major updates.
+- Daily backup at 21:00 Asia/Taipei.

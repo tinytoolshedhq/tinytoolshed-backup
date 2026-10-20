@@ -111,5 +111,5 @@
 - 時間：上線後（待定） 12:30 英國時間（台北 —）｜平台：X＋Bluesky｜狀態：DRAFT（SHELVED）
 
   > went with a one-off payment instead of a subscription
-  > free for 3 items, then £2.99 once for the full version. no launch deal, same price for everyone [PENDING CHUN: 3 vs 10 items]
+  > free for 10 items, then £2.99 once for the full version. no launch deal, same price for everyone
   > curious whether that feels fair for a "when did I last…" app

@@ -1,6 +1,6 @@
 # Tiny Toolshed — Site Copy (GitHub Pages: tinytoolshedhq.github.io/app)
 
-> 給 Chun：2026-10-20 已依開發確認（main d3a510c）解決 [VERIFY] 功能標記；免費額度仍標 [PENDING CHUN: 3 vs 10 items]；App Store 連結與回覆天數仍是 [TODO]。不可宣稱一鍵刪除全部資料。
+> 給 Chun：2026-10-20 已依開發確認（main d3a510c）解決 [VERIFY] 功能標記；免費額度為 10 items, 10 records per item；App Store 連結與回覆天數仍是 [TODO]。不可宣稱一鍵刪除全部資料。
 > 註：撰寫時 /workspace/marketing/launch/ 與 learning/ 內原有檔案不存在（可能被 10:40 的覆寫清掉），內容依任務提供的資訊撰寫。
 
 ---
@@ -30,7 +30,7 @@ Footer on every page: `© 2026 Tiny Toolshed · Privacy · Terms · Support · t
 We make simple, focused iPhone apps that do one thing well.
 
 - **Free to download.** Try it before you pay anything.
-- **Pay once.** Free for 3 items; one-time purchase for unlimited items. No subscriptions. [PENDING CHUN: 3 vs 10 items]
+- **Pay once.** Free for 10 items, 10 records per item; one-time purchase for unlimited items. No subscriptions.
 - **Your data stays on your phone.** No account, no server, no tracking.
 
 ### Our apps
@@ -72,7 +72,7 @@ If the answer is "uh… it's been ages," this app is for you.
 - *Coming soon:* type or speak to add items, ask "how long since…", say "just did it", and undo. Runs fully on your iPhone, offline.
 
 **Pricing**
-- Free: track up to **3 items**. [PENDING CHUN: 3 vs 10 items]
+- Free: track up to **10 items, 10 records per item**.
 - One-time purchase (Pro) — US $2.99: **unlimited items**, unlimited records per item, and 3 extra share card colors (mint, sky, blush; cream is free). No subscription. Family Sharing is not available.
 
 **Privacy**
@@ -150,7 +150,7 @@ Email **tinytoolshedhq@gmail.com** — we usually reply within [TODO: X] days.
 
 **Quick answers**
 - **Can my family share my purchase?** No. Family Sharing is not available for Been Ages.
-- **I paid but I'm back on the free limit.** [PENDING CHUN: 3 vs 10 items] Open the purchase screen in the app and tap Restore Purchases.
+- **I paid but I'm back on the free limit (10 items, 10 records per item).** Open the purchase screen in the app and tap Restore Purchases.
 - **How do I get a refund?** Refunds go through Apple: https://reportaproblem.apple.com
 - **Will my data move to a new phone?** There's no iCloud sync. Export a backup file on your old phone and import it on the new one.
 - **Is there a widget?** Not at the moment.

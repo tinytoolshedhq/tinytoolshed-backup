@@ -46,7 +46,7 @@
   - 來源：`../../paid-app-analysis.md`
 
 ## 套用到 Been Ages（【推論】，都需要 Chun 核准）
-1. **定價**：~~舊推論已作廢~~ £2.99 一次買斷，無上市優惠，免費 3 項，不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（Chun 決定）。 [PENDING CHUN: 3 vs 10 items]
+1. **定價**：~~舊推論已作廢~~ £2.99 一次買斷，無上市優惠，免費 10 項（每項 10 筆紀錄），不開家人共享（Chun 2026-10-20 定案：等同 US $2.99 的價格點；MetaRun 2026-10-12 由 App Store Connect API 取得的對照表：GB £2.99、DE €2.99、FR €2.99，上架前請在 ASC 再確認）（Chun 決定）。
 2. **在地化**：和美國版共用英文素材，但改成英式拼字，截圖範例換成 MOT、boiler service、換牙刷。
 3. **ASO**：英國區的關鍵字欄要另外設定，可以加 mot、boiler 這類字。
 4. **平台**：TikTok、IG 用美國版短影音素材。英國沒有可以查證的論壇案例，所以先不發 Reddit 在地版。
@@ -65,7 +65,7 @@
 
 ## 已知學習 [RECONSTRUCTED-PARTIAL]
 - 免費 + 一次性購買勝過付費下載（下載量 4–6 倍，轉換率 3–12%）。
-- Been Ages 免費 3 個項目。 [PENDING CHUN: 3 vs 10 items]
+- Been Ages 免費 10 個項目（每項 10 筆紀錄）。
 - ASO：name 30、subtitle 30、keywords 100 bytes，三欄不重複。
 - 回覆比發文有效；連結放第一則回覆。
 - 前 3 張截圖要呈現好處。

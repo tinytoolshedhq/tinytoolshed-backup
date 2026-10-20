@@ -5,7 +5,7 @@ Status: **DRAFT — nothing posted. Every post and reply needs Chun's approval b
 | Decision | Value |
 |---|---|
 | Price | Full version $2.99 one-time; **no launch discount**, no subscription |
-| Free tier | 3 items | [PENDING CHUN: 3 vs 10 items]
+| Free tier | 10 items, 10 records per item |
 | Account / data | No account; data stays on the phone |
 | Family Sharing | Not enabled — don't mention |
 | Don't mention | widgets, iCloud backup |
@@ -63,7 +63,7 @@ Status: **DRAFT — nothing posted. Every post and reply needs Chun's approval b
 **Threads**
 > Everything is a subscription now. This one isn't. Been Ages tracks when you last did the little things (toothbrush, filters, sheets, calling mom). Pay once, it's yours, and nothing leaves your phone.
 
-**First reply:** "Free version covers 3 items. Full version is $2.99, one time." [PENDING CHUN: 3 vs 10 items]
+**First reply:** "Free version covers 10 items, 10 records each. Full version is $2.99, one time."
 
 ### #4 Launch
 **X**
@@ -95,19 +95,19 @@ Status: **DRAFT — nothing posted. Every post and reply needs Chun's approval b
 **Threads**
 > I logged everything in Been Ages for a week. Toothbrush [N] days, water filter [N] days, sheets [N] days, called my mom [N] days. What would yours say?
 
-**First reply:** "App Store: [link] Free for 3 items, $2.99 one time for the full app." [PENDING CHUN: 3 vs 10 items]
+**First reply:** "App Store: [link] Free for 10 items, $2.99 one time for the full app."
 
 Placeholders remaining: App Store [link] (after launch), [N] values (after a week of real use). "Two-person-ish studio" in #4 Threads — confirm team size with Chun or cut.
 
 ## Product Hunt
 - **Tagline:** Tap once. See how long it's been. Pay once.
-- **Description (244/256 chars):** A tiny iPhone app for the stuff you never remember: toothbrush, water filter, sheets, calling mom. Tap when you do it, see how long it's been. Free for 3 items, $2.99 once for the full app. No subscription, no account, data stays on your phone. [PENDING CHUN: 3 vs 10 items]
+- **Description (244/256 chars):** A tiny iPhone app for the stuff you never remember: toothbrush, water filter, sheets, calling mom. Tap when you do it, see how long it's been. Free for 10 items, $2.99 once for the full app. No subscription, no account, data stays on your phone.
 - **Maker comment:**
-  > Hi Product Hunt! I'm Chun from Tiny Toolshed. I kept getting asked "when did you last change the water filter?" and never had an answer, so I built Been Ages. It does one thing: you tap when you do something, and it shows how long it's been. Toothbrush, contacts, sheets, calling your mom. There's no account and your data stays on your phone. It's free for 3 items and $2.99 one time for the full version — no subscription, ever. I'd love to hear what you'd track first. [PENDING CHUN: 3 vs 10 items]
+  > Hi Product Hunt! I'm Chun from Tiny Toolshed. I kept getting asked "when did you last change the water filter?" and never had an answer, so I built Been Ages. It does one thing: you tap when you do something, and it shows how long it's been. Toothbrush, contacts, sheets, calling your mom. There's no account and your data stays on your phone. It's free for 10 items and $2.99 one time for the full version — no subscription, ever. I'd love to hear what you'd track first.
 
 ## Localization notes for teammates
 - Hook first, product later; price and links only in the first reply.
-- Keep: $2.99 one-time (show local App Store tier where needed), free 3 items, no account, data on phone. Never: unlock (desbloquear / 解鎖 etc.), widgets, iCloud backup, Family Sharing, launch discount. [PENDING CHUN: 3 vs 10 items]
+- Keep: $2.99 one-time (show local App Store tier where needed), free 10 items (10 records each), no account, data on phone. Never: unlock (desbloquear / 解鎖 etc.), widgets, iCloud backup, Family Sharing, launch discount.
 - MX: "¿Cada cuánto cambian ___?", "Pago único, sin suscripción, sin cuenta." Avoid "un solo pago de por vida" (Telegram scam spam). ustedes, not vosotros/vos.
 - BR: "Vcs trocam ___ de quanto em quanto tempo?", "Compra única, sem assinatura." Target reaction "Obrigada por me lembrar".
 - "Be honest. No judgment." is overused by brand/NSFW accounts; the concrete question carries the engagement.

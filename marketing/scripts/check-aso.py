@@ -1,4 +1,4 @@
-# [PENDING CHUN: 3 vs 10 items] — free-tier copy below says 3 items; code (d3a510c) says 10 items/10 records each. Do not ship until Chun decides.
+## Free tier (Chun 2026-10-20): 10 items, 10 records per item.
 # Been Ages App Store field checker (en-GB, de-DE, fr-FR).
 # Run: python3 check-aso.py [gb|de|fr ...]   (check-aso-gb.py = same file, defaults to gb)
 import re, sys, os
@@ -30,7 +30,7 @@ PRIVATE BY DESIGN
 No account and no sign-up. Your data stays on your iPhone, and we can't see what you log.
 
 PAY ONCE
-Free to download, with up to 3 items. A one-off purchase gives you unlimited items and extra share card styles. No subscription. Already bought it? You can restore your purchase at any time.
+Free to download, with up to 10 items and 10 records per item. A one-off purchase gives you unlimited items and extra share card styles. No subscription. Already bought it? You can restore your purchase at any time.
 
 Made by one developer at Tiny Toolshed. Feedback is always welcome.""",
  CAPTIONS=["Know how long it's been since anything","Exact months and days, never rounded off","A nudge when it's due again","Log it in one tap. No faff.","No account. Your data stays on your phone.","Pay once. No subscription.","Light or dark, your call"],
@@ -63,7 +63,7 @@ DEINE DATEN BLEIBEN BEI DIR
 Kein Konto, keine Anmeldung. Deine Daten bleiben auf deinem iPhone, und wir sehen nicht, was du einträgst.
 
 EINMALKAUF, KEIN ABO
-Kostenlos laden, mit bis zu 3 Einträgen. Mit einem Einmalkauf bekommst du unbegrenzt viele Einträge und weitere Kartenstile. Kein Abo. Schon gekauft? Du kannst deinen Kauf jederzeit wiederherstellen.
+Kostenlos laden, mit bis zu 10 Einträgen und je 10 Aufzeichnungen. Mit einem Einmalkauf bekommst du unbegrenzt viele Einträge und weitere Kartenstile. Kein Abo. Schon gekauft? Du kannst deinen Kauf jederzeit wiederherstellen.
 
 Gemacht von einem einzelnen Entwickler bei Tiny Toolshed. Feedback ist jederzeit willkommen.""",
  CAPTIONS=["Sieh sofort, wie lange es her ist","Genau in Monaten und Tagen, nie gerundet","Erinnert dich, wenn es wieder fällig ist","Mit einem Tipp erledigt","Kein Konto. Deine Daten bleiben auf dem iPhone.","Einmalkauf, kein Abo","Hell oder dunkel, wie du willst"],
@@ -96,7 +96,7 @@ VOS DONNÉES RESTENT CHEZ VOUS
 Sans compte, sans inscription. Vos données restent sur votre iPhone et nous ne voyons pas ce que vous notez.
 
 ACHAT UNIQUE, SANS ABONNEMENT
-Téléchargement gratuit, jusqu'à 3 éléments. Un achat unique vous donne des éléments illimités et d'autres styles de cartes. Sans abonnement. Déjà acheté ? Vous pouvez restaurer votre achat à tout moment.
+Téléchargement gratuit, jusqu'à 10 éléments et 10 enregistrements par élément. Un achat unique vous donne des éléments illimités et d'autres styles de cartes. Sans abonnement. Déjà acheté ? Vous pouvez restaurer votre achat à tout moment.
 
 Créé par un développeur indépendant chez Tiny Toolshed. Vos retours sont les bienvenus.""",
  CAPTIONS=["Voyez d'un coup d'œil depuis quand","En mois et en jours, sans arrondi","Un rappel quand c'est le moment","Noté en un seul geste","Sans compte. Vos données restent sur l'iPhone.","Achat unique, sans abonnement","Clair ou sombre, à vous de choisir"],

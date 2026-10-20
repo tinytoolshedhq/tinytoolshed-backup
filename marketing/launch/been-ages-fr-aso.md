@@ -38,7 +38,7 @@
 > Sans compte, sans inscription. Vos données restent sur votre iPhone et nous ne voyons pas ce que vous notez.
 >
 > ACHAT UNIQUE, SANS ABONNEMENT
-> Téléchargement gratuit, jusqu'à 3 éléments. Un achat unique vous donne des éléments illimités et d'autres styles de cartes. Sans abonnement. Déjà acheté ? Vous pouvez restaurer votre achat à tout moment. [PENDING CHUN: 3 vs 10 items]
+> Téléchargement gratuit, jusqu'à 10 éléments et 10 enregistrements par élément. Un achat unique vous donne des éléments illimités et d'autres styles de cartes. Sans abonnement. Déjà acheté ? Vous pouvez restaurer votre achat à tout moment.
 >
 > Créé par un développeur indépendant chez Tiny Toolshed. Vos retours sont les bienvenus.
 
@@ -65,7 +65,7 @@
 - 法文標點：冒號、問號前有空格（這裡用一般空格；上架時可換成不換行窄空格，字數不變）。
 - Keywords 把「contrôle technique」拆成 `contrôle,technique` 兩個字，Apple 會自動組合【推論】；`brosse,dents` 同理。
 - Name 備選：`Been Ages : depuis quand ?`（26）。
-- 說明文的功能都對過 app 1.1.1：一鍵記錄、幾個月幾天、提醒（週／2 週／月／年／自訂間隔，錯過 3 天後再提醒）、逾期、歷史＋備註＋統計（次數、平均、最長間隔）、加到行事曆、分享卡、深色模式、最近刪除 30 天、免費 3 個項目（Chun 定案；app 1.1.1 程式碼目前是 10 項＋每項 10 筆，需碼農改）、買斷後無限制＋更多卡片樣式、恢復購買。 [PENDING CHUN: 3 vs 10 items]
+- 說明文的功能都對過 app 1.1.1：一鍵記錄、幾個月幾天、提醒（週／2 週／月／年／自訂間隔，錯過 3 天後再提醒）、逾期、歷史＋備註＋統計（次數、平均、最長間隔）、加到行事曆、分享卡、深色模式、最近刪除 30 天、免費 10 個項目（每項 10 筆紀錄）（Chun 定案；app 1.1.1 程式碼目前是 10 項＋每項 10 筆，需碼農改）、買斷後無限制＋更多卡片樣式、恢復購買。
 - ⚠️ **app 介面目前沒有德文／法文**（只有 en、zh-Hant、ja）。商店頁是法國文、打開卻是英文，可能招來負評【推論】。
 
 ## 待 Chun 決定

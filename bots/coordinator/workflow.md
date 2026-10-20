@@ -21,5 +21,5 @@
 - 憑證只走遮罩輸入框，絕不進聊天或 repo。
 
 ## 備份
-- 每天 21:00（台北）跑 `/workspace/backup/backup.sh`（必須 SCAN CLEAN），再用 GitHub connector push_files 推到 ChunWang1998/tinytoolshed-backup（每次最多 4 個檔）。
+- 每天 21:00（台北）跑 `/workspace/backup/backup.sh`（必須 SCAN CLEAN），再在備份 repo（tinytoolshedhq/tinytoolshed-backup）上開 cloud agent 發 PR，審過再合併。
 - 重要檔案完成時也順便備份。

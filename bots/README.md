@@ -3,7 +3,7 @@
 |---|---|
 | 黑嘛嘛 | Coordinator; talks to Chun (zh-TW) |
 | 行銷大師 | Marketing strategy, ASO, outreach, site copy |
-| 可憐的碼農 | Development — repo ChunWang1998/app, app in `app3/mobile`; PRs only |
+| 可憐的碼農 | Development — repo tinytoolshedhq/app, app in `app3/mobile`; PRs only |
 | previewer | UI previews, walkthrough GIFs |
 | 漏洞大師 | Security review of every PR (review only, never edits) |
 | 亞洲小編 | Social: Japan, Korea, Taiwan |

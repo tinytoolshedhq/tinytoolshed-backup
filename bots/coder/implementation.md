@@ -1,6 +1,6 @@
 # 實作摘要（可憐的碼農）
 
-## Repo 概覽：ChunWang1998/app
+## Repo 概覽：tinytoolshedhq/app
 | 目錄 | App | 說明 |
 |---|---|---|
 | `app1/game` | 諧音猜猜 | 諧音梗問答，無內購、無敏感權限 |

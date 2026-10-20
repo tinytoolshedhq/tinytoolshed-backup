@@ -5,8 +5,13 @@
 - 只把重要的事拿去問 Chun；小事自行決定。
 - 負責轉達所有需要 Chun 核准的事項（EAS build、貼文／回覆、上架變更）。
 
+## 品牌帳號與權限（2026-10-20）
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
+- 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
+
 ## 目前狀態（2026-10-20）
-- **App**：Been Ages（com.beenages.app），IAP 一次買斷 com.beenages.app.fullpack；Expo SDK 57；程式在 ChunWang1998/app 的 `app3/mobile`。
+- **App**：Been Ages（com.beenages.app），IAP 一次買斷 com.beenages.app.fullpack；Expo SDK 57；程式在 tinytoolshedhq/app 的 `app3/mobile`。
 - **1.1.0 build 7**：WAITING_FOR_REVIEW（Full Pack 一起送審）。
 - **1.1.1 build 11**：已在 TestFlight Internal（main f737573），沒有送審。內容：手機內建 AI 輸入＋語音、德文／法文介面、相簿用途說明。
 - **EAS build**：本月 15 次用了 9 次，剩 6 次。

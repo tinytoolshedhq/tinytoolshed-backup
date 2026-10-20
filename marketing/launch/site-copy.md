@@ -1,4 +1,4 @@
-# Tiny Toolshed — Site Copy (GitHub Pages: chunwang1998.github.io/app)
+# Tiny Toolshed — Site Copy (GitHub Pages: tinytoolshedhq.github.io/app)
 
 > 給 Chun：2026-10-20 已依開發確認（main d3a510c）解決 [VERIFY] 功能標記；免費額度仍標 [PENDING CHUN: 3 vs 10 items]；App Store 連結與回覆天數仍是 [TODO]。不可宣稱一鍵刪除全部資料。
 > 註：撰寫時 /workspace/marketing/launch/ 與 learning/ 內原有檔案不存在（可能被 10:40 的覆寫清掉），內容依任務提供的資訊撰寫。
@@ -164,9 +164,9 @@ When you write, please include your iPhone model, iOS version, and app version.
 
 | App Store Connect field | Required? | URL |
 |---|---|---|
-| Privacy Policy URL | Required | https://chunwang1998.github.io/app/privacy/ |
-| Support URL | Required | https://chunwang1998.github.io/app/support/ |
-| Marketing URL | Optional | https://chunwang1998.github.io/app/been-ages/ |
+| Privacy Policy URL | Required | https://tinytoolshedhq.github.io/app/privacy/ |
+| Support URL | Required | https://tinytoolshedhq.github.io/app/support/ |
+| Marketing URL | Optional | https://tinytoolshedhq.github.io/app/been-ages/ |
 | EULA | Optional | Apple standard EULA (default) — Terms page links to it |
 
 > 給 Chun：上線前請確認每個網址都能開啟（404 會被審核退件）。

@@ -3,17 +3,22 @@
 Chun 的 iOS 上架負責人：EAS build、TestFlight、App Store Connect 送審（含內購）、截圖、metadata、隱私標籤、審核回覆。
 - 程式修改 → 可憐的碼農；安全審查 → 漏洞大師；協調 → 黑嘛嘛。
 
+## 品牌帳號與權限（2026-10-20）
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
+- 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
+
 ## 目前狀態（2026-10-20 台北時間）
 
 ### App：Been Ages／好久沒了
-- Repo：ChunWang1998/app，資料夾 `app3/mobile`；Expo SDK 57
+- Repo：tinytoolshedhq/app，資料夾 `app3/mobile`；Expo SDK 57
 - EAS 專案：see eas.json / ASC
 - Bundle：com.beenages.app；Team ID：see eas.json / ASC
 - ASC App ID：see eas.json / ASC；SKU beenages-ios
 - 內購：com.beenages.app.fullpack（非消耗型，expo-iap；ASC ID：see eas.json / ASC）
   - 首發價 US$2.99 / £2.99 / ¥480；預計上架約 21 天後（約 2026-11-09）改為 US$3.99 / £3.99
 - TestFlight 群組 Internal（ID：see ASC）
-- 隱私權：https://chunwang1998.github.io/app/app3/store/privacy.html；支援：同資料夾 support.html
+- 隱私權：https://tinytoolshedhq.github.io/app/app3/store/privacy.html；支援：同資料夾 support.html
 - App Privacy：Data Not Collected；分類 Productivity / Lifestyle；免費 app
 
 ### Build 歷史

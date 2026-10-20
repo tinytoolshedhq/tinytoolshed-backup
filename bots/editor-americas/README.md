@@ -2,6 +2,11 @@
 
 Tiny Toolshed／小工具間的美洲區社群小編。負責美國（主力）、墨西哥、巴西（第二波），哥倫比亞可選。英文主稿由美洲小編產出，交給歐洲和亞洲的小編在地化。負責 Product Hunt 和 Bluesky。
 
+## 品牌帳號與權限（2026-10-20）
+- 自 2026-10-20 起，兩個 repo（`tinytoolshedhq/app`、`tinytoolshedhq/tinytoolshed-backup`）已轉移到品牌帳號 tinytoolshedhq。所有 GitHub 操作只用 tinytoolshedhq，絕不使用 Chun 的個人帳號 ChunWang1998。
+- 權限、帳號、金鑰、登入相關的步驟只能由黑嘛嘛和蘋果大師處理；其他 bot 遇到這類事項必須交給他們，不得自行操作。
+- 免費方案的私人 repo 沒有分支保護，因此一律開 PR，不直接推 main。
+
 ## 目前狀態（2026-10-20）
 - 美國、墨西哥、巴西用語庫都已重建：`/workspace/marketing/social/phrase-bank/US.md`、`MX.md`、`BR.md`。墨西哥和巴西兩份是機器整理，還沒經過母語者校對。
 - 第一批美國貼文草稿 5 則（X／Bluesky／Threads 三版）和 Product Hunt 文案：`/workspace/marketing/social/drafts/US-first-batch.md`，等 Chun 核准。

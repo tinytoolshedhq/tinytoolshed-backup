@@ -14,3 +14,4 @@
 - 已完成 Been Ages 第一輪 UX 研究（main @ 3690694）。
 - 原始研究檔案（/workspace/ux/zhang-ayi/）已經不在 box 上，重點已整理到 findings.md。
 - 目前沒有進行中的任務，等待下一輪測試（新版 main）。
+- 每次 build 前都要跑一次 test-flows.md 的全部流程。

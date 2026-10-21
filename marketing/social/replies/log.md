@@ -1,3 +1,5 @@
+> **2026-10-20 (Chun 新規則)：#1–#33 全部未發、全部作廢**（已過時，且不符新規則：每則需附無 Android 說明、影片＋照片、App Store 連結）。App Store 上架前不發任何回覆；上架後重新搜尋。下表只留作避免重複。
+
 # Reply log — Americas
 Posts that already have reply drafts. Check here before drafting so we don't reply twice. Status values: drafted / approved / posted / skipped.
 Note: the 11 drafts from the Sat round are now stale (several days old); not to be posted. Kept here only to avoid duplicates.

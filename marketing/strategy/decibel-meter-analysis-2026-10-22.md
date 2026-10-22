@@ -1,0 +1,45 @@
+# 分貝計（Decibel / Sound Level Meter）評估 — 2026-10-22
+依 learning/app-theme-process.md 評估流程。數據：iTunes Search API（us/gb/jp，2026-10-22 抓取）、customer reviews RSS（us）。【推論】＝未經來源直接證實；【未查證】＝本輪沒重新核對。
+
+## 1. 競品調查（皆可下載，皆免費下載＋內購）
+| App | 連結 | US 評分數/均分 | GB | JP | 最近更新 | 價格模式 |
+|---|---|---|---|---|---|---|
+| Decibel X | https://apps.apple.com/us/app/id448155923 | 163,256 / 4.65 | 22,168 / 4.57 | 19,266 / 4.32 | 2026-10-11 | 內購 $1.99–$69.99，含試用＋訂閱（評論證實） |
+| Decibel Meter Sound Detector | https://apps.apple.com/us/app/id1254994873 | 55,675 / 4.68 | 8,961 / 4.63 | 47 / 4.49 | 2025-05-06（停更 17 個月） | 免費版＋付費版（評論提及） |
+| NIOSH SLM（美國政府） | https://apps.apple.com/us/app/id1096545820 | 16,912 / 4.67 | 1,537 / 4.65 | — | 2026-10-21 | 完全免費 |
+| Decibel : dB sound level meter | https://apps.apple.com/us/app/id1227650795 | 36,148 / 4.64 | 5,566 | 3,079 / 4.23 | 2026-02-12 | 免費＋內購 |
+| 騒音計（JP） | https://apps.apple.com/jp/app/id1590659820 | 577 | 460 | 1,353 / 4.18 | 2025-09-07 | 免費＋內購 |
+- 美國搜尋「decibel meter」前 8 名都是同類 app → 關鍵字明確、好打廣告。
+- 日本前段班均分 4.18–4.32，都低於美國（4.6+）→ 日本有品質缺口【推論】。
+
+## 2. 用戶反饋（Decibel X / Decibel Meter 最新 25 則，US RSS）
+- 優點：好讀、即時、有 max/min、拿來看演唱會/教會/車子/排氣管/鄰居音量。
+- 負評（集中在付費）：「3 天試用就是陷阱」「一打開就要 $50」「每週扣款我不知道」「dB 計做成訂閱沒道理」「nagware」「欺負老人」。
+- 讚美付費相關：「沒價格、沒廣告，還要什麼」(Decibel Meter)。
+- 其他：藍牙斷線、有延遲、缺說明書。
+
+## 3. 切入點（單一特點）
+**「誠實的一次買斷分貝計：打開就量，沒有試用陷阱、沒有訂閱、沒有廣告。」**
+理由：最大競品 Decibel X 的 1–2 星幾乎全部在罵付費牆/訂閱；第二名已停更。次要訊息（不另做主打）：噪音紀錄可匯出、存在手機上，例如鄰居噪音。
+
+## 4. 免費／付費切分（$2.99 一次買斷）
+- 免費：即時 dB(A)、平均/最大/最小、儀表＋簡易波形、噪音等級說明（圖書館/對話/地鐵/演唱會等）、校準偏移、最近 10 筆紀錄。
+- 付費版多了：無限紀錄與筆記、CSV/圖片匯出、長時間記錄（螢幕開著）、超標提醒（如 >85 dB）、頻譜/C 加權（若技術可行）、分享卡顏色。
+- 不把量測本身鎖住；文案不用 unlock/解鎖。
+
+## 5. 技術與審核
+- 麥克風權限：需 NSMicrophoneUsageDescription，用途寫清楚；資料不上傳。
+- 精準度：iPhone 麥克風約 30–100 dB 可用，太大聲會飽和；需用 AVAudioSession measurement 模式關掉 AGC/降噪。NIOSH 2014 研究顯示部分 iOS app 誤差可在 ±2 dBA 內，Android 差很多【未查證，記憶】。結論：一律標示「僅供參考、非專業儀器」，提供校準偏移。
+- Expo：expo-audio 錄音可開 metering，給的是 dBFS（約 -160–0），要換算＋校準才像 dB SPL；能做 MVP。A/C 加權、頻譜需 FFT → react-native-audio-api 或自寫 native module，要 dev build（EAS 額度內可做）【推論，需本機驗證】。設 measurement 模式可能要 native config。
+- 審核風險：不可宣稱醫療/聽力診斷或專業認證精度（Guideline 1.4.1 類）；4.2 最低功能 → 需歷史/匯出/說明等不只是一個數字；背景錄音（UIBackgroundModes audio）沒必要就不要開，免得被問（2.5.4）。
+- 不需登入、無伺服器、零成本：符合。
+
+## 6. 架構歸屬
+tinytoolshedhq/app 根目錄有 app1/app2/app3/shared/eas.json（2026-10-22 讀取）→ 已是多 app 共用 shared 的結構。建議：放進同 repo 當 app4（共用 shared 的 IAP/語言/分享卡/紀錄元件），但上架成**獨立 App**（自己的名稱與關鍵字），不塞進 Been Ages。【推論】
+
+## 7. ASO 草案
+- US/GB：Decibel Meter: Sound Level ／ 副標 Noise Meter, dB, No Subscription（GB 補 decibel metre）。
+- JP：騒音計：デシベル測定（騒音計、デシベル、音量測定、うるさい、近所）。
+
+## 判斷：需調整後通過（23/30 維持）
+需求、付費證據、關鍵字都強；風險在 Expo 精準度（measurement 模式、FFT）。下一步：工程先做 expo-audio metering PoC 與 NIOSH SLM 對照誤差，誤差可接受再進開發。

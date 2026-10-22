@@ -33,3 +33,8 @@
 - expo-doctor 在我這邊是 18/18、碼農那邊是 21/21，只是工具版本不同。
 - 德文翻錯的「Anteilskarte」（股份卡）只是翻譯問題，不是安全問題。
 - 「il y a 500000 jours」這類極端日期會被年份檢查丟掉，沒有影響。
+
+## 2026-10-22 起：app PR 固定加做 iOS 原生設定檢查（有問題就不通過）
+1. 每個 *.podspec 必須通過 ruby -c，且不可有 Node 專用寫法（__dirname、require()、module.exports），改用 __dir__。
+2. 用到 expo-file-system 或媒體套件時，app.json 與 Info.plist 每種語言都要有 NSPhotoLibraryUsageDescription，最好也有 NSPhotoLibraryAddUsageDescription，否則會被 ITMS-90683 退件。
+3. ios.buildNumber 必須大於 ASC 上已用過的所有號碼（考慮 autoIncrement）。改到 buildNumber 的 PR，說明裡要寫蘋果大師提供的 ASC 最大號碼供比對。

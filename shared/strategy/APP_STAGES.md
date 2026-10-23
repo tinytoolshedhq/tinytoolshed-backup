@@ -42,7 +42,7 @@ Last updated: 2026-10-23
 | app1 | `app1/` | (諧音猜猜) | **Ignored** | Do not track or work on |
 | app2 | `app2/` | (急廁 Go) | **Ignored** | Do not track or work on |
 | app3 | `app3/` | Been Ages / 好久沒了 | **4** | Submitted to App Store, not yet live / marketing |
-| app4 | `app4/` | (TBD) | **4** | Submitted to App Store, not yet live / marketing |
+| app4 | `app4/` | Decibel Meter | **4** | Submitted to App Store, not yet live / marketing |
 
 ## How to Update This File
 

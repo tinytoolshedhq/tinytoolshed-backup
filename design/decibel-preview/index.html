@@ -1,0 +1,58 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>分貝計 預覽</title><style>
+@font-face{font-family:N;src:url(fonts/BeenAgesRounded-Regular.ttf);font-weight:400}
+@font-face{font-family:N;src:url(fonts/BeenAgesRounded-Bold.ttf);font-weight:700}
+:root{--bg:#FBF7F0;--card:#fff;--ink:#2F3A36;--sub:#8A918C;--track:#E4EEE7;--teal:#3E9180;--amber:#E9A23B;--coral:#E5533D;--frame:#1d1d1f;--page:#EDE7DC}
+.dark{--bg:#1C2422;--card:#26302D;--ink:#F3EEE4;--sub:#9AA59F;--track:#33403C;--teal:#5DB3A0;--amber:#F0B45A;--coral:#F06B55;--page:#0f1312}
+*{box-sizing:border-box;margin:0}body{font-family:N,"PingFang TC",sans-serif;background:var(--page);min-height:100vh;display:flex;align-items:center;justify-content:center;color:var(--ink)}
+.phone{width:393px;height:852px;border-radius:56px;background:var(--bg);position:relative;overflow:hidden;box-shadow:0 0 0 12px var(--frame),0 30px 60px #0004}
+.bare body,.bare{background:var(--bg)} .bare .phone{border-radius:0;box-shadow:none}
+.island{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:124px;height:36px;border-radius:20px;background:#000}
+.status{display:flex;justify-content:space-between;padding:18px 34px 0;font-weight:700;font-size:16px}
+.top{display:flex;align-items:center;gap:8px;padding:34px 28px 0;font-weight:700;font-size:20px}
+.gauge{position:relative;margin:56px auto 0;width:320px;height:190px}
+.gauge svg{position:absolute;inset:0}
+.num{position:absolute;left:0;right:0;top:92px;text-align:center}
+.num b{font-size:76px;line-height:1;font-variant-numeric:tabular-nums}.num small{font-size:20px;color:var(--sub);margin-left:4px}
+.pill{display:table;margin:26px auto 0;padding:8px 22px;border-radius:99px;font-weight:700;font-size:18px;color:#fff;transition:background .5s}
+.stats{display:flex;justify-content:center;gap:14px;margin:44px 28px 0}
+.stats div{flex:1;background:var(--card);border-radius:20px;padding:12px 0;text-align:center}
+.stats span{display:block;font-size:13px;color:var(--sub)}.stats b{font-size:22px}
+.ctrl{position:absolute;left:28px;right:28px;bottom:58px}
+.presets{display:flex;gap:10px}.presets button{flex:1;font:700 16px N;border:0;border-radius:16px;padding:12px;background:var(--card);color:var(--ink);cursor:pointer}
+.presets button.on{background:var(--ink);color:var(--bg)}
+input[type=range]{width:100%;margin-top:18px;accent-color:var(--teal)}
+.hint{text-align:center;font-size:12px;color:var(--sub);margin-top:6px}
+#needle{transition:transform .6s cubic-bezier(.3,1.4,.5,1);transform-origin:160px 160px}
+#arc{transition:stroke-dashoffset .6s ease,stroke .5s}
+</style></head><body><div class="phone"><div class="island"></div>
+<div class="status"><span>9:41</span><span>●●● ▮</span></div>
+<div class="top"><svg width="30" height="30" viewBox="0 0 30 30" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M9 20c0-9 3-15 9-15s8 4 8 8c0 4-4 5-4 9s-3 6-6 4"/><path d="M14 14c0-3 2-4 4-4s3 2 2 4"/><circle cx="16" cy="18" r=".6" fill="currentColor"/></svg>分貝計</div>
+<div class="gauge"><svg viewBox="0 0 320 190">
+<path d="M30 160 A130 130 0 0 1 290 160" fill="none" stroke="var(--track)" stroke-width="22" stroke-linecap="round"/>
+<path id="arc" d="M30 160 A130 130 0 0 1 290 160" fill="none" stroke="var(--teal)" stroke-width="22" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100"/>
+<g id="needle"><line x1="160" y1="160" x2="160" y2="58" stroke="var(--ink)" stroke-width="4" stroke-linecap="round"/></g>
+<circle cx="160" cy="160" r="9" fill="var(--ink)"/>
+<text x="26" y="186" font-size="12" fill="var(--sub)" text-anchor="middle">30</text><text x="294" y="186" font-size="12" fill="var(--sub)" text-anchor="middle">110</text></svg>
+</div>
+<div class="num" style="position:relative;top:0;margin-top:14px"><b id="v">40</b><small>dB</small></div>
+<div class="pill" id="lbl">安靜</div>
+<div class="stats"><div><span>最低</span><b id="mn">-</b></div><div><span>平均</span><b id="av">-</b></div><div><span>最高</span><b id="mx">-</b></div></div>
+<div class="ctrl"><div class="presets"><button data-v="40">40</button><button data-v="65">65</button><button data-v="85">85</button></div>
+<input id="sl" type="range" min="30" max="110" value="40"><div class="hint">模擬音量</div></div></div>
+<script>
+const q=new URLSearchParams(location.search),R=document.documentElement;
+if(q.get('theme')==='dark')R.classList.add('dark');if(q.get('bare'))R.classList.add('bare');
+const $=id=>document.getElementById(id);let cur=40,hist=[],raf;
+function lv(d){return d<50?['安靜','--teal']:d<75?['一般','--amber']:['吵雜','--coral']}
+function set(t,anim=true){t=Math.max(30,Math.min(110,+t));$('sl').value=t;
+ document.querySelectorAll('.presets button').forEach(b=>b.classList.toggle('on',+b.dataset.v===t));
+ const p=(t-30)/80;$('needle').style.transform=`rotate(${-90+p*180}deg)`;$('arc').style.strokeDashoffset=100-p*100;
+ const [l,c]=lv(t);$('arc').style.stroke=`var(${c})`;$('lbl').textContent=l;$('lbl').style.background=`var(${c})`;
+ hist.push(t);$('mn').textContent=Math.min(...hist);$('mx').textContent=Math.max(...hist);$('av').textContent=Math.round(hist.reduce((a,b)=>a+b)/hist.length);
+ cancelAnimationFrame(raf);const s=cur,t0=performance.now(),D=anim?600:0;
+ (function f(n){const k=D?Math.min(1,(n-t0)/D):1;cur=Math.round(s+(t-s)*(1-Math.pow(1-k,3)));$('v').textContent=cur;if(k<1)raf=requestAnimationFrame(f)})(t0)}
+document.querySelectorAll('.presets button').forEach(b=>b.onclick=()=>set(b.dataset.v));
+$('sl').oninput=e=>set(e.target.value);
+const s0=+(q.get('s')||40);if(q.get('s')){hist=[38,52,s0,71].filter(x=>x)}set(s0,false);
+</script></body></html>

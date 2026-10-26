@@ -228,3 +228,26 @@ TODO: 內容無法復原。 原檔由歐洲小編撰寫，請其補回。
 ## 上架前後發文規則（Chun，2026-10-20）
 - 上架 App Store 前：所有社群發文和回覆一律暫停。
 - 上架後每則發文和回覆都必須：說明目前還沒有 Android 版；附 1 支影片 + 1 張照片（由 Chun 提供）；附 App Store 連結。
+
+---
+## 2026-10-26 每週學習（歐洲小編，只讀不互動；英國仍只做 ASO）
+> 來源：x MCP `search_posts_all`（1 次，lang:en，2026-10-19 起，關鍵字 clocks go back／for ages／yonks／bleed the radiators）。本週英國時鐘 10/25 調回，樣本被這個話題主導；個人貼文互動都很低（≤10 讚），多半是機構提醒文。Threads／Bluesky 本週未重查。
+
+### 新觀察
+| 模式 | 實例（原文節錄） | 連結 |
+|---|---|---|
+| 「Two types of person…」二分法開場，自嘲 | 「Two types of person… ‘Ooh the clocks went back, an extra hour in bed!!’ ‘Ooh … i can get up and out an hour earlier!!’」（Wales） | https://x.com/MeldrewsGhost/status/2114262372160581760 |
+| 「Everyone else gets X. [職業] get Y.」反差句 | 「Everyone else gets an extra hour in bed. Social workers get the 4pm visit that is now a night visit…」 | https://x.com/socialworkO/status/2112521256872394755 |
+| 「Guess who's …」自打臉 | 「Laughed at the team on night shift last year … Guess who's on night shift this week when the clocks go back」（5 讚） | https://x.com/jubzy_497/status/2112178919004942786 |
+| 時鐘調回＝冬季待辦清單（最貼近 Been Ages） | 「reset the heating and outside light timers, bleed the radiators, clear the gutters, and make sure more than one person knows where the stopcock is」（Liverpool 村會館） | https://x.com/VillageHallHub/status/2112869004771811377 |
+| 同上，**競品式 app 帳號**的清單貼文 | 「6 winter jobs you might have forgotten: • Test the smoke alarms • Bleed the radiators • Book the boiler service • Turn off the outside tap • Clear the gutters • Check the car's tyres」 | https://x.com/dyptapp/status/2113691925467550032 |
+| 機構提醒固定句 | 「Don't forget! The clocks go back this weekend … giving us an extra hour in bed.」 | https://x.com/PeterboroughCC/status/2112921852280521134 |
+
+### 新詞（ASO 可參考）
+- stopcock（總水閥）、outside tap、gutters、smoke alarms、timers——英式家務詞，可放進預設項目或截圖文字【推論】。
+- 「extra hour in bed」是時鐘調回的固定說法。
+
+### 【推論】結論
+- 英國式幽默仍是反差＋自嘲（Two types of person／Guess who's）。
+- 「時鐘調回時順便做的冬季雜事」是很自然的季節場景；明年 3 月底時鐘撥快、10 月底調回都可當截圖或上架後內容的掛點。
+- 已有 app 帳號（dyptapp）在用同樣的清單角度，要避免撞句。

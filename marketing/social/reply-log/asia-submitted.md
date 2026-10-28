@@ -32,3 +32,8 @@
 - https://x.com/jpn_ITossan/status/2112484140826464729
 - https://x.com/el_le1288/status/2112507001565831332
 - https://x.com/horacechuangg/status/2112436720830689385
+
+## 2026-10-28 16:05 輪（X only；上架前，僅草稿不可發；台灣/香港/韓國 0 則）
+- https://x.com/Minato_journall/status/2114739501377732704
+- https://x.com/renren01study/status/2113577826821832945
+- https://x.com/maki_asa_de/status/2113979129628651834

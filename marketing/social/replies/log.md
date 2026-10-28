@@ -47,3 +47,12 @@ Note: the 11 drafts from the Sat round are now stale (several days old); not to 
 | 31 | Bluesky | https://bsky.app/profile/puppy.bzky.team/post/3mybsm6k7cs2l | US/EN | drafted (help only) |
 | 32 | Bluesky | https://bsky.app/profile/hbjaycut.blacksky.app/post/3myby3ogfgc2m | US/EN | drafted (help only) |
 | 33 | X | https://x.com/laramarcollino/status/2112393696591438175 | BR | drafted (機器草稿, help only) |
+
+### Round 2026-10-28 16:10 (Taipei) — search only, drafted, NOT sent (pre-launch; needs Chun's approval)
+| # | Platform | URL | Market | Status |
+|---|---|---|---|---|
+| 34 | X | https://x.com/dietcocacolaa/status/2114869571215888761 | US | draft, not sent |
+| 35 | X | https://x.com/TeamKatisha/status/2114872475611988231 | US | draft, not sent |
+| 36 | X | https://x.com/annacouturee/status/2114624787112681742 | US/EN | draft, not sent |
+| 37 | X | https://x.com/sadlululis/status/2115071628673737213 | BR | draft, not sent (機器草稿) |
+Post-launch line on every draft: "iPhone only for now, no Android yet. [APP_STORE_LINK] [VIDEO] [PHOTO]"

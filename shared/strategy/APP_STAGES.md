@@ -3,7 +3,7 @@
 Durable status file for all Tiny Toolshed apps.  
 **黑媽媽** and other bots should read this file to know the current stage of each app.
 
-Last updated: 2026-10-23
+Last updated: 2026-10-30
 
 ## Stage Definitions
 
@@ -43,6 +43,7 @@ Last updated: 2026-10-23
 | app2 | `app2/` | (急廁 Go) | **Ignored** | Do not track or work on |
 | app3 | `app3/` | Been Ages / 好久沒了 | **4** | Submitted to App Store, not yet live / marketing |
 | app4 | `app4/` | Decibel Meter | **4** | Submitted to App Store, not yet live / marketing |
+| app5 | `app5/` | 伸展 app（暫定名） | **2** | Development (pre-build), no testable build yet |
 
 ## How to Update This File
 

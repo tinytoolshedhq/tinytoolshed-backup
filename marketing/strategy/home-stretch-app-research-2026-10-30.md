@@ -167,7 +167,7 @@ Chun 點名的 3 個 app 目前規模都很小：
 - 價格敏感：
   - 有人比較 Down Dog 網頁訂閱很便宜，但 Bend 沒有網頁付款（[連結](https://x.com/i/status/2043670851367899151)）。
   - DC 論壇覺得넥라이프的月訂偏貴，偏好 ₩2,200 買斷的 FocusPose（[DC](https://gall.dcinside.com/mgallery/board/view/?id=tns&no=1062)）。這是**買斷有市場的直接證據**。
-- 高價課程也有人買：Naver 上約 18 萬韓元的烏龜頸課程，賣點是「永久擁有」，缺點是「沒人看動作」（[Naver](https://m.blog.naver.com/s941110s/222217889500)，2021 年的文章，價格可能已變）。
+- 高價課程也有人買：Naver 上約 18 萬韓元的烏龜頸課程，賣點是「永久擁有」，缺點是「沒人看動作」（Naver 部落格課程文（連結略），2021 年的文章，價格可能已變）。
 - 自製工具：有人用 AI 做了下班時跳出提醒伸展的工具，聲量小（[連結](https://x.com/i/status/2104207509414416472)）。
 - 參考價格：[Flexor 韓文比較頁](https://flexor.app/ko/blog/best-stretching-apps-in-2026)（自家評測，偏頗）、[feelgoodpal](https://feelgoodpal.com/ko/blog/best-stretching-apps/)。
 

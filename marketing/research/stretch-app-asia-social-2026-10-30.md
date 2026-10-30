@@ -14,7 +14,7 @@
 1. **最大痛點＝「存了伸展影片卻不看」**：「IG 存了一堆거북목 스트레칭 릴스卻再也沒打開，只有我嗎？」句型的貼文 346 讚、328 收藏、18,791 曝光 [連結](https://x.com/i/status/2045072428251193479)。→ 「把收藏變成每天 3 分鐘處方」是強鉤子。
 2. **關鍵字是 거북목（烏龜頸）、일자목、직장인**：App Store 上主打「거북목 3분 스트레칭」的 Welly，月 ₩3,300／年 ₩29,000，Pro 含「孕婦・復健特化」[App Store](https://apps.apple.com/mr/app/id6775660889)。
 3. **價格敏感**：有人比較 Down Dog 網頁訂閱很便宜，Bend 卻沒有網頁付款 [連結](https://x.com/i/status/2043670851367899151)；DC 烏龜頸板實測文：넥라이프 月訂「有點貴」、偏好 ₩2,200 買斷的 FocusPose [DC 論壇](https://gall.dcinside.com/mgallery/board/view/?id=tns&no=1062)。→ 買斷制有市場。
-4. **高價課程也有人買**：Naver 部落格「건강한 친구들」烏龜頸課程約 18 萬韓元、優點是「平生所有」，缺點是「沒人幫你看動作」[Naver](https://m.blog.naver.com/s941110s/222217889500)（2021 文章，價格可能已變）。→ AI 姿勢回饋可補此缺口。
+4. **高價課程也有人買**：Naver 部落格上的烏龜頸課程約 18 萬韓元、優點是「平生所有」，缺點是「沒人幫你看動作」Naver 部落格課程文（連結略）（2021 文章，價格可能已變）。→ AI 姿勢回饋可補此缺口。
 5. **自製工具潮**：有人用 AI 做「下班時全螢幕跳出叫你伸展」的 app [連結](https://x.com/i/status/2104207509414416472)（3 讚，聲量小）。
 6. **App／價格參考**：韓文評測列出 Bend 約 $13.99/月、$39.99/年，StretchIt、Pliability 約 $19.9x/月 [Flexor 韓文比較](https://flexor.app/ko/blog/best-stretching-apps-in-2026)（自家評測，偏頗）；Stretching Workout 等免費款 [feelgoodpal](https://feelgoodpal.com/ko/blog/best-stretching-apps/)。
 7. **機會族群（判斷）**：上班族／開發者的烏龜頸（聲量最大）、懶得看影片的「收藏族」；孕婦・復健已被 Welly 當付費賣點，可做但需謹慎醫療宣稱。Naver Cafe、IG 熱度未驗證。
